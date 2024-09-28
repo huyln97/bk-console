@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "console-mobile",
+    "slug": "console-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/app-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dev.consolemobile"
+    },
+    "web": {
+      "favicon": "./assets/app-favicon.png"
+    }
+  }
+}
